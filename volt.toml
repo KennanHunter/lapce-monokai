@@ -1,0 +1,7 @@
+name = "monokai"
+display-name = "Monokai"
+description = "The Classic Monokai Theme"
+version = "0.1.0"
+author = "Kennan Hunter"
+repository = "https://github.com/kennanhunter/lapce-monokai"
+themes = ["monokai.toml"]
